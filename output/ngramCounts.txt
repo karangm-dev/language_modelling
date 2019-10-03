@@ -1,0 +1,3 @@
+Unigrams: 12936
+Bigrams: 386929
+Trigrams: 1219111

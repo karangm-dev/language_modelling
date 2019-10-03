@@ -1,0 +1,6 @@
+Lambda: 0.1
+Filename: ../input/test/test01.txt, Perplexity: 681.7919971187538
+Filename: ../input/test/test02.txt, Perplexity: 997.5458147856787
+Lambda: 0.3
+Filename: ../input/test/test01.txt, Perplexity: 400.13545088135595
+Filename: ../input/test/test02.txt, Perplexity: 632.2489328140936

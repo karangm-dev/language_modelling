@@ -1,0 +1,41 @@
+Lambdas: [0.1, 0.1, 0.8], Perplexity Score: 55.07373798152423 
+Lambdas: [0.1, 0.2, 0.7], Perplexity Score: 58.78840801897878 
+Lambdas: [0.1, 0.3, 0.6], Perplexity Score: 63.33942327245274 
+Lambdas: [0.1, 0.4, 0.5], Perplexity Score: 69.1047194890966 
+Lambdas: [0.1, 0.5, 0.4], Perplexity Score: 76.76080123680559 
+Lambdas: [0.1, 0.6, 0.3], Perplexity Score: 87.68333074733299 
+Lambdas: [0.1, 0.7, 0.2], Perplexity Score: 105.3096744490452 
+Lambdas: [0.1, 0.8, 0.1], Perplexity Score: 142.56650535207103 
+Lambdas: [0.2, 0.1, 0.7], Perplexity Score: 52.87397885291302 
+Lambdas: [0.2, 0.2, 0.6], Perplexity Score: 56.761951367668125 
+Lambdas: [0.2, 0.3, 0.5], Perplexity Score: 61.672267654090504 
+Lambdas: [0.2, 0.4, 0.4], Perplexity Score: 68.17239455521762 
+Lambdas: [0.2, 0.5, 0.3], Perplexity Score: 77.41643545040044 
+Lambdas: [0.2, 0.6, 0.2], Perplexity Score: 92.29066658907156 
+Lambdas: [0.2, 0.7, 0.1], Perplexity Score: 123.6737964094361 
+Lambdas: [0.3, 0.1, 0.6], Perplexity Score: 52.86067371658635 
+Lambdas: [0.3, 0.2, 0.5], Perplexity Score: 57.31151095540638 
+Lambdas: [0.3, 0.3, 0.4], Perplexity Score: 63.197702801475494 
+Lambdas: [0.3, 0.4, 0.3], Perplexity Score: 71.56191073352298 
+Lambdas: [0.3, 0.5, 0.2], Perplexity Score: 85.01426089833231 
+Lambdas: [0.3, 0.6, 0.1], Perplexity Score: 113.40792660644533 
+Lambdas: [0.4, 0.1, 0.5], Perplexity Score: 54.26239007554263 
+Lambdas: [0.4, 0.2, 0.4], Perplexity Score: 59.74451795991184 
+Lambdas: [0.4, 0.3, 0.3], Perplexity Score: 67.5330371106041 
+Lambdas: [0.4, 0.4, 0.2], Perplexity Score: 80.06043973681801 
+Lambdas: [0.4, 0.5, 0.1], Perplexity Score: 106.51878192494641 
+Lambdas: [0.5, 0.1, 0.4], Perplexity Score: 57.126718419473086 
+Lambdas: [0.5, 0.2, 0.3], Perplexity Score: 64.49620795750711 
+Lambdas: [0.5, 0.3, 0.2], Perplexity Score: 76.352277392161 
+Lambdas: [0.5, 0.4, 0.1], Perplexity Score: 101.40839373736243 
+Lambdas: [0.6, 0.1, 0.3], Perplexity Score: 62.07862889583786 
+Lambdas: [0.6, 0.2, 0.2], Perplexity Score: 73.4148116848699 
+Lambdas: [0.6, 0.3, 0.1], Perplexity Score: 97.38558346113881 
+Lambdas: [0.7, 0.1, 0.2], Perplexity Score: 70.99810393648363 
+Lambdas: [0.7, 0.2, 0.1], Perplexity Score: 94.09140608214493 
+Lambdas: [0.8, 0.1, 0.1], Perplexity Score: 91.31673713740872 
+
+ Choosen lambdas: [0.3, 0.1, 0.6]
+
+Filename: ../input/test/test01.txt, Perplexity: 55.6909565615725
+Filename: ../input/test/test02.txt, Perplexity: 63.99153937532941
