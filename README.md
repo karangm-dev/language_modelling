@@ -15,7 +15,7 @@
 	  * virtualenv venv<br/>
 
 6. Activate the virtual environment<br/>
-	  * source finance_env/bin/activate<br/>
+	  * source venv/bin/activate<br/>
     
 7. Install the libraries from requirements file<br/> 
 	  * pip install -r requirements.txt<br/>
