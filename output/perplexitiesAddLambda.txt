@@ -4,3 +4,5 @@ Filename: ../input/test/test02.txt, Perplexity: 997.5458147856787
 Lambda: 0.3
 Filename: ../input/test/test01.txt, Perplexity: 400.13545088135595
 Filename: ../input/test/test02.txt, Perplexity: 632.2489328140936
+
+Lambda value - 0.3 performs better. The perplexity for test01.txt is less compared to test02.txt for both lambdas. Lower the perplexity value, better the result is. A conclusion can be made saying that test01.txt has content more similar to the train data compared to the test02.txt
